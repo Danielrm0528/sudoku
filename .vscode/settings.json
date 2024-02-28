@@ -14,6 +14,11 @@
       "cwd": "/mnt/t/Downloads/sudoku",
       "binaryPath": "/mnt/t/Downloads/sudoku/part1",
       "binaryArgs": []
+    },
+    {
+      "cwd": "/mnt/t/OneDrive/Documentos/GitHub/sudoku",
+      "binaryPath": "/mnt/t/OneDrive/Documentos/GitHub/sudoku/part1",
+      "binaryArgs": []
     }
   ],
   "C_Cpp_Runner.msvcBatchPath": "",
