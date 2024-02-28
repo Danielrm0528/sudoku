@@ -18,7 +18,6 @@ GtkLabel *textResultLabel, *fileNameLabel, *fileName;
 GtkBuilder	*builder; 
 GTimer *stopwatch;
 
-//hola
 
 char *currentFileName = ""; //Save the path of the current file
 int incompatibleFile = 0; //1 for error reading the file
