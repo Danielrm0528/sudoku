@@ -495,7 +495,7 @@ int main(int argc, char *argv[]) {
 
 	gtk_init(&argc, &argv); // init Gtk
 
-	builder = gtk_builder_new_from_file ("part1.glade");
+	builder = gtk_builder_new_from_file ("sudoku.glade");
  
 	window = GTK_WIDGET(gtk_builder_get_object(builder, "window"));
 

@@ -2,22 +2,22 @@
   "makefile.launchConfigurations": [
     {
       "cwd": "/home/daniel/Desktop/gladePrueba",
-      "binaryPath": "part1",
+      "binaryPath": "sudoku",
       "binaryArgs": []
     },
     {
       "cwd": "/home/daniel/Desktop/sudoku_beta",
-      "binaryPath": "part1",
+      "binaryPath": "sudoku",
       "binaryArgs": []
     },
     {
       "cwd": "/mnt/t/Downloads/sudoku",
-      "binaryPath": "/mnt/t/Downloads/sudoku/part1",
+      "binaryPath": "/mnt/t/Downloads/sudoku/sudoku",
       "binaryArgs": []
     },
     {
       "cwd": "/mnt/t/OneDrive/Documentos/GitHub/sudoku",
-      "binaryPath": "/mnt/t/OneDrive/Documentos/GitHub/sudoku/part1",
+      "binaryPath": "/mnt/t/OneDrive/Documentos/GitHub/sudoku/sudoku",
       "binaryArgs": []
     }
   ],
